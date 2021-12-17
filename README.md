@@ -20,6 +20,8 @@ The scheduler automatically color codes past, present, and future events with gr
 
 ![Screen Shot 2021-12-17 at 12 31 08 AM](https://user-images.githubusercontent.com/93744725/146494160-c8a0f283-d3c9-4c3f-96a3-20a7c5902412.png)
 
+https://github.com/kheeb/dayPlanner.git
+
 ### credits
 
 Triology Education Inc.
